@@ -1,10 +1,10 @@
 # [level 5] 방의 개수 - 49190 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/49190) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/49190?language=python3) 
 
 ### 성능 요약
 
-메모리: 97.4 MB, 시간: 296.03 ms
+메모리: 83.3 MB, 시간: 293.38 ms
 
 ### 구분
 
