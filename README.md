@@ -4,4 +4,4 @@
 
 html
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={erua0919})](https://solved.ac/{erua0919})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=erua0919)](https://solved.ac/erua0919)
